@@ -1,0 +1,11 @@
+#journal-header {
+    display: flex;
+    height: 150px;
+    flex-flow: nowrap row;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+#journal-greeting {
+    padding-left: 10%;
+}
