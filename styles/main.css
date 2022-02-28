@@ -5,3 +5,10 @@ body {
 button {
     border: solid 1px;
 }
+
+#text-output {
+    width: 25em;
+    height: 25em;
+    background-color: black;
+    color: #03A062;
+}
